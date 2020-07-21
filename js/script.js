@@ -1,5 +1,2 @@
-const category = 'toys';
-console.log(`http://someurl.com/${category}`);
+"use strict";
 
-const user = 'Ivan';
-alert(`Привет, ${user}`);
