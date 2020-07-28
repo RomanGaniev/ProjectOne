@@ -75,4 +75,4 @@ function writeYourGenres() {
 }
 
 writeYourGenres();
-detectPersonalLevel();
+
